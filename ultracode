@@ -1,3 +1,6 @@
+#author:mounika L
+#Program to measure the distance of any object using Raspberry pi Library 
+
 import RPi.GPIO as GPIO                                  #Importing GPIO Function from RPi Module as GPIO 
 import time                                                 #Importing time module for giving a time delay 
 GPIO.setmode(GPIO.BCM)                                        # Setting Raspberry Pi GPIO as a BCM Mode (GPIO numbers) 
